@@ -1,0 +1,2 @@
+# motherEarthBanner
+Animation using GSAP
